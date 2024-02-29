@@ -10,7 +10,7 @@
 </h5>
 <hr>
 
-<h2 align="center">Skills and Technologies</h2>
+<h2 align="center">🖥️ Skills and Technologies 🖥️</h2>
 <br>
 
 <br>
@@ -36,7 +36,7 @@
 </p>
 <hr>
 
-<h2 align="center">Repositories</h2>
+<h2 align="center">👩‍💻 Repositories 👩‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/hydrowoxy/a1-maze-runner-hydrowoxy" title="Maze Runner"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hydrowoxy&repo=a1-maze-runner-hydrowoxy&theme=react&border_color=61dafb&border_radius=10">
