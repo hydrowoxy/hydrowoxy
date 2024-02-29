@@ -19,22 +19,22 @@
 <h2 align="center">Languages, Frameworks, Tools, and Skills</h2>
 <br>
 <p align="center">
-  <img title="C" height="80" src="images/c.png">
-  <img title="C#" height="80" src="images/csharp.png">
-  <img title="bash" height="80" src="images/bash.png">
-  <img title="python" height="80" src="images/python.png">
-  <img title="java" height="80" src="images/java.png">
-  <img title="MATLAB" height="80" src="images/MATLAB.png">
+  <img title="C" height="100" src="images/c.png">
+  <img title="C#" height="100" src="images/csharp.png">
+  <img title="bash" height="100" src="images/bash.png">
+  <img title="python" height="100" src="images/python.png">
+  <img title="java" height="100" src="images/java.png">
+  <img title="MATLAB" height="100" src="images/MATLAB.png">
   
-  <img title="mongodb" height="80" src="images/mongodb.png">
-  <img title="nodejs" height="80" src="images/node.png">
-  <img title="reactjs" height="80" src="images/react.png">
-  <img title="quartus" height="80" src="images/quartus.png">
+  <img title="mongodb" height="100" src="images/mongodb.png">
+  <img title="nodejs" height="100" src="images/node.png">
+  <img title="reactjs" height="100" src="images/react.png">
+  <img title="quartus" height="100" src="images/quartus.png">
 
-  <img title="web" height="80" src="images/HTML CSS JS.png">
+  <img title="web" height="100" src="images/HTML CSS JS.png">
 
-  <img title="autocad" height="80" src="images/autocad.png">
-  <img title="f360" height="80" src="images/fusion.png">
+  <img title="autocad" height="100" src="images/autocad.png">
+  <img title="f360" height="100" src="images/fusion.png">
 </p>
 
 <br>
