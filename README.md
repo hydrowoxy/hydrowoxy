@@ -14,9 +14,9 @@
   Hi, I'm Salma Baig
   <br>
   <br>
-  🔬 X
+  🔬 I'm a Software and Biomedical Engineering undergraduate student
   <br>
-  📫 Email: <a href="mailto: baigs19@mcmaster.caa">baigs19@mcmaster.ca</a>
+  📫 You can reach me at <a href="mailto: baigs19@mcmaster.caa">baigs19@mcmaster.ca</a>
 </p>
 
 <hr>
