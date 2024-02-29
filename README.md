@@ -28,7 +28,6 @@
   <img title="python" height="60" src="images/python.png">
   <img title="java" height="60" src="images/java.png">
   <img title="MATLAB" height="60" src="images/MATLAB.png">
-  <img title="LaTeX" height="60" src="images/tex.png">
   
   <img title="mongodb" height="60" src="images/mongodb.png">
   <img title="nodejs" height="60" src="images/node.png">
