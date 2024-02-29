@@ -22,7 +22,7 @@
 <h2 align="center">Languages, Frameworks, Tools, and Skills</h2>
 <br>
 <p align="center">
-  <img title="C" height="40" src="images/c.png">
+  <img title="C" height="50" src="images/c.png">
 </p>
 <hr>
 
