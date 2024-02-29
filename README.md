@@ -8,6 +8,10 @@
   <code><a href="https://www.linkedin.com/in/salma-baig/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://salmabaig.com" title="Portfolio Site"><img width="22" src="images/portfolio.svg"> Portfolio Site</a></code>
 </h5>
+<hr>
+
+<h2 align="center">Skills and Technologies</h2>
+<br>
 
 <br>
 <p align="center">
