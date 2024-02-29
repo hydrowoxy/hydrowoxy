@@ -11,20 +11,19 @@
 
 <br>
 <p align="center">
-  <img title="C" height="100" src="images/c.png">
-  <img title="C#" height="100" src="images/csharp.png">
-  <img title="bash" height="100" src="images/bash.png">
-  <img title="python" height="100" src="images/python.png">
-  <img title="java" height="100" src="images/java.png">
-  <img title="MATLAB" height="100" src="images/MATLAB.png">
-  
-  <img title="unity" height="100" src="images/unity.png">
-  <img title="mongodb" height="100" src="images/mongodb.png">
-  <img title="nodejs" height="100" src="images/node.png">
-  <img title="reactjs" height="100" src="images/react.png">
-  <img title="quartus" height="100" src="images/quartus.png">
+  <img title="bash" height="100" src="images/bash.svg">
+  <img title="C" height="100" src="images/c.svg">
+  <img title="C#" height="100" src="images/csharp.svg">
+  <img title="css" height="100" src="images/css.svg">
+  <img title="html5" height="100" src="images/html5.svg">
+  <img title="js" height="100" src="images/js.svg">
+  <img title="python" height="100" src="images/python.svg">
+  <img title="java" height="100" src="images/java.svg">
+  <img title="matlab" height="100" src="images/matlab.svg">
 
-  <img title="web" height="100" src="images/HTML CSS JS.png">
+  <img title="reactjs" height="100" src="images/react.svg">
+  <img title="unity" height="100" src="images/unity.svg">
+  <img title="nodejs" height="100" src="images/node.svg">
 
 </p>
 
