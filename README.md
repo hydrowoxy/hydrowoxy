@@ -32,7 +32,6 @@
   <img title="f360" height="100" src="images/fusion.png">
 </p>
 
-<hr>
 <h2 align="left">Stats</h2>
 <br>
 <p align=center>
