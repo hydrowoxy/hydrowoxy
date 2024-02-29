@@ -2,11 +2,12 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Salma+:);Nice+to+meet+you!&center=true&size=30">
   </a>
-  <h5 align="center">
+</h1>
+
+<h5 align="center">
   <code><a href="https://www.linkedin.com/in/salma-baig/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://salmabaig.com" title="Portfolio Site"><img width="22" src="images/portfolio.svg"> Portfolio Site</a></code>
 </h5>
-</h1>
 
 <br>
 <p align="center">
