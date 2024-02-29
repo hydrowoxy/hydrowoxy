@@ -25,7 +25,19 @@
   <img title="C" height="60" src="images/c.png">
   <img title="C#" height="60" src="images/csharp.png">
   <img title="bash" height="60" src="images/bash.png">
+  <img title="python" height="60" src="images/python.png">
+  <img title="java" height="60" src="images/java.png">
+  <img title="MATLAB" height="60" src="images/MATLAB.png">
+  <img title="LaTeX" height="60" src="images/tex.png">
+  
+  <img title="mongodb" height="60" src="images/mongodb.png">
+  <img title="nodejs" height="60" src="images/node.png">
+  <img title="reactjs" height="60" src="images/react.png">
+  <img title="quartus" height="60" src="images/quartus.png">
+
   <img title="web" height="60" src="images/HTML CSS JS.png">
+
+  <img title="autocad" height="60" src="images/autocad.png">
   <img title="f360" height="60" src="images/fusion.png">
 </p>
 <hr>
