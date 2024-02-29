@@ -4,11 +4,6 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/salma-baig/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://salmabaig.com" title="Portfolio Site"><img width="22" src="images/portfolio.svg"> Portfolio Site</a></code>
-</h5>
-
 <br>
 <p align="center">
   <img title="bash" height="60" src="images/bash.svg">
@@ -24,6 +19,11 @@
   <img title="unity" height="60" src="images/unity.svg">
   <img title="nodejs" height="60" src="images/node.svg">
 </p>
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/salma-baig/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://salmabaig.com" title="Portfolio Site"><img width="22" src="images/portfolio.svg"> Portfolio Site</a></code>
+</h5>
 
 <p align=center>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hydrowoxy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
