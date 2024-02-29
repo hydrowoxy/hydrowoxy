@@ -9,11 +9,6 @@
   <code><a href="https://salmabaig.com" title="Portfolio Site"><img width="22" src="images/portfolio.svg"> Portfolio Site</a></code>
 </h5>
 <br>
-<p align="left">
-  🔬 I'm a Software and Biomedical Engineering undergraduate student
-  <br>
-  📫 You can reach me at <a href="mailto: baigs19@mcmaster.caa">baigs19@mcmaster.ca</a>
-</p>
 
 <hr>
 <h2 align="center">Languages, Frameworks, Tools, and Skills</h2>
