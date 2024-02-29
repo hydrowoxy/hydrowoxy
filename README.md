@@ -11,8 +11,6 @@
 </h5>
 <br>
 <p align="left">
-  <br>
-  <br>
   🔬 I'm a Software and Biomedical Engineering undergraduate student
   <br>
   📫 You can reach me at <a href="mailto: baigs19@mcmaster.caa">baigs19@mcmaster.ca</a>
