@@ -7,7 +7,6 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/salma-baig/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://salmabaig.com" title="Portfolio Site"><img width="22" src="images/portfolio.svg"> Portfolio Site</a></code>
-    <code><a href="https://www.youtube.com/@hydroxy_the_tutor" title="Portfolio Site"><img width="22" src="images/youtube.svg"> YouTube</a></code>
 </h5>
 <br>
 <p align="left">
