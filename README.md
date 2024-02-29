@@ -10,7 +10,7 @@
 </h5>
 
 <hr>
-<h2 align="center">Languages, Frameworks, Tools, and Skills</h2>
+<h2 align="left">Languages, Frameworks, Tools, and Skills</h2>
 <br>
 <p align="center">
   <img title="C" height="100" src="images/c.png">
@@ -32,6 +32,8 @@
   <img title="f360" height="100" src="images/fusion.png">
 </p>
 
+<hr>
+<h2 align="left">Stats</h2>
 <br>
 <p align=center>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hydrowoxy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
