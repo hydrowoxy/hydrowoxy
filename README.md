@@ -11,18 +11,18 @@
 
 <br>
 <p align="center">
-  <img title="bash" height="80" src="images/bash.svg">
-  <img title="C" height="80" src="images/c.svg">
-  <img title="C#" height="80" src="images/csharp.svg">
-  <img title="css" height="80" src="images/css.svg">
-  <img title="html5" height="80" src="images/html5.svg">
-  <img title="js" height="80" src="images/js.svg">
-  <img title="python" height="80" src="images/python.svg">
-  <img title="java" height="80" src="images/java.svg">
-  <img title="matlab" height="80" src="images/matlab.svg">
-  <img title="reactjs" height="80" src="images/react.svg">
-  <img title="unity" height="80" src="images/unity.svg">
-  <img title="nodejs" height="80" src="images/node.svg">
+  <img title="bash"  src="images/bash.svg">
+  <img title="C"  src="images/c.svg">
+  <img title="C#"  src="images/csharp.svg">
+  <img title="css" src="images/css.svg">
+  <img title="html5" src="images/html5.svg">
+  <img title="js"  src="images/js.svg">
+  <img title="python" src="images/python.svg">
+  <img title="java"  src="images/java.svg">
+  <img title="matlab"  src="images/matlab.svg">
+  <img title="reactjs"  src="images/react.svg">
+  <img title="unity"  src="images/unity.svg">
+  <img title="nodejs" src="images/node.svg">
 </p>
 
 <p align=center>
