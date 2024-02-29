@@ -16,7 +16,7 @@
   <img title="C#" height="60" src="images/csharp.svg">
   <img title="css" height="60" src="images/css.svg">
   <img title="html5" height="60" src="images/html5.svg">
-  <img title="js" height="60" src="images/js.svg">
+  <img title="js" height="50" src="images/js.svg">
   <img title="python" height="60" src="images/python.svg">
   <img title="java" height="60" src="images/java.svg">
   <img title="matlab" height="60" src="images/matlab.svg">
