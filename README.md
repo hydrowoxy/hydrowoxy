@@ -11,7 +11,6 @@
 </h5>
 <br>
 <p align="left">
-  Hi, I'm Salma Baig
   <br>
   <br>
   🔬 I'm a Software and Biomedical Engineering undergraduate student
@@ -23,7 +22,7 @@
 <h2 align="center">Languages, Frameworks, Tools, and Skills</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.png"></code>
+  <code><img title="C" height="40" src="images/c.png"></code>
 </p>
 <hr>
 
