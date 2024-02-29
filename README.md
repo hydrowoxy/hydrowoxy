@@ -28,6 +28,7 @@
   <img title="unity" height="60" src="images/unity.svg">
   <img title="nodejs" height="60" src="images/node.svg">
 </p>
+<hr>
 
 <br>
 <p align=center>
