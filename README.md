@@ -26,8 +26,6 @@
 
   <img title="web" height="100" src="images/HTML CSS JS.png">
 
-  <img title="autocad" height="100" src="images/autocad.png">
-  <img title="f360" height="100" src="images/fusion.png">
 </p>
 
 <p align=center>
