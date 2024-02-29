@@ -9,7 +9,7 @@
   <code><a href="https://salmabaig.com" title="Portfolio Site"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
-<p align="center">
+<p align="left">
   Hi, I'm Salma Baig
   <br>
   <br>
@@ -28,13 +28,6 @@
 <h2 align="center">Stats</h2>
 <br>
 <p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=hydrowoxy&theme=react&border=61dafb&hide_border=true" alt="hydrowoxy" />
-    </a>
-  </div>
-  <br>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hydrowoxy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <hr>
