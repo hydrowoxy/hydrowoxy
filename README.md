@@ -11,20 +11,18 @@
 
 <br>
 <p align="center">
-  <img title="bash" height="100" src="images/bash.svg">
-  <img title="C" height="100" src="images/c.svg">
-  <img title="C#" height="100" src="images/csharp.svg">
-  <img title="css" height="100" src="images/css.svg">
-  <img title="html5" height="100" src="images/html5.svg">
-  <img title="js" height="100" src="images/js.svg">
-  <img title="python" height="100" src="images/python.svg">
-  <img title="java" height="100" src="images/java.svg">
-  <img title="matlab" height="100" src="images/matlab.svg">
-
-  <img title="reactjs" height="100" src="images/react.svg">
-  <img title="unity" height="100" src="images/unity.svg">
-  <img title="nodejs" height="100" src="images/node.svg">
-
+  <img title="bash" height="80" src="images/bash.svg"><br>
+  <img title="C" height="80" src="images/c.svg"><br>
+  <img title="C#" height="80" src="images/csharp.svg"><br>
+  <img title="css" height="80" src="images/css.svg"><br>
+  <img title="html5" height="80" src="images/html5.svg"><br>
+  <img title="js" height="80" src="images/js.svg"><br>
+  <img title="python" height="80" src="images/python.svg"><br>
+  <img title="java" height="80" src="images/java.svg"><br>
+  <img title="matlab" height="80" src="images/matlab.svg"><br>
+  <img title="reactjs" height="80" src="images/react.svg"><br>
+  <img title="unity" height="80" src="images/unity.svg"><br>
+  <img title="nodejs" height="80" src="images/node.svg"><br>
 </p>
 
 <p align=center>
