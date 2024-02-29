@@ -25,7 +25,7 @@
   <img title="C" height="60" src="images/c.png">
   <img title="C#" height="60" src="images/csharp.png">
   <img title="bash" height="60" src="images/bash.png">
-  <img title="html5" height="60" src="images/html.svg">
+  <img title="html5" height="60" src="images/HTML.svg">
   <img title="f360" height="60" src="images/fusion.png">
 </p>
 <hr>
