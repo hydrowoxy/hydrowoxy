@@ -30,6 +30,9 @@
 </p>
 <hr>
 
+<h2 align="center">📊 Stats 📊</h2>
+<br>
+
 <br>
 <p align=center>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hydrowoxy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
