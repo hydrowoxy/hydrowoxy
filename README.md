@@ -1,6 +1,9 @@
+<h2 align="center">Hi, I'm Salma</h2>
+<br>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Salma+💙;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;Nice+to+meet+you!&center=true&size=10">
   </a>
 </h1>
 
