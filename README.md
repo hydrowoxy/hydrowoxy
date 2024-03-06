@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Salma</h2>
+<h2 align="center">Hi, I'm Salma :)</h2>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/salma-baig/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
