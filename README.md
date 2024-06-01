@@ -29,7 +29,7 @@
 <h2 align="center">👩‍💻 Repositories 👩‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/hydrowoxy/a1-maze-runner-hydrowoxy" title="Maze Runner"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hydrowoxy&repo=a1-maze-runner-hydrowoxy&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/hydrowoxy/MazeRunner" title="Maze Runner"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hydrowoxy&repo=a1-maze-runner-hydrowoxy&theme=react&border_color=61dafb&border_radius=10">
 </div>
 <br/><br/><br/><br/><br/><br/>
 
