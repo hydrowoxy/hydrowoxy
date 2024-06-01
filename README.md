@@ -4,7 +4,6 @@
   <code><a href="https://www.linkedin.com/in/salma-baig/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://salmabaig.com" title="Portfolio Site"><img width="22" src="images/portfolio.svg"> Portfolio Site</a></code>
 </h5>
-<hr>
 
 <h2 align="center">🖥️ Skills and Technologies 🖥️</h2>
 <br>
@@ -24,7 +23,6 @@
   <img title="unity" height="60" src="images/unity.svg">
   <img title="nodejs" height="60" src="images/node.svg">
 </p>
-<hr>
 
 <!--
 **hydrowoxy/hydrowoxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
