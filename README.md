@@ -5,9 +5,6 @@
   <code><a href="https://salmabaig.com" title="Portfolio Site"><img width="22" src="images/portfolio.svg"> Portfolio Site</a></code>
 </h5>
 
-<h2 align="center">🖥️ Skills and Technologies 🖥️</h2>
-<br>
-
 <br>
 <p align="center">
   <img title="bash" height="60" src="images/bash.svg">
