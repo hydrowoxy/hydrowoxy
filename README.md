@@ -3,7 +3,7 @@
 **B. Eng. BME (Software & Biomedical Engineering)**  
 [LinkedIn](https://linkedin.com/in/salma-baig) | [Portfolio](https://salmabaig.com) | [Email](mailto:baigs19@mcmaster.ca)
 
-I'm a student double-majoring in Software and Biomedical Engineering at McMaster University, with a passion for merging diverse disciplines to solve real-world challenges.
+I'm a student double-majoring in Software and Biomedical Engineering at [McMaster University](https://www.eng.mcmaster.ca/ibiomed/), with a passion for merging diverse disciplines to solve real-world challenges.
 
 
 
