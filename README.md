@@ -1,11 +1,12 @@
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDI0MW5zcXhvYTl4Zms0cWY1eGN6azhtZWRkbnphNWF3YnVzOW1obyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CFnZZOC74b3AQtrjHd/giphy.gif" alt="Anime Waving" width="50" style="vertical-align: middle;" />  Hello, I'm [Salma](https://github.com/hydrowoxy)! 
 
 **B. Eng. BME (Software & Biomedical Engineering)**  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-baig)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://salmabaig.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baigs19@mcmaster.ca)
 
-I'm a student double-majoring in Software and Biomedical Engineering at [McMaster University](https://www.eng.mcmaster.ca/ibiomed/), with a passion for merging diverse disciplines to solve real-world challenges. Unabashedly in love with Java <3.
+I'm a student double-majoring in Software and Biomedical Engineering at [McMaster University](https://www.eng.mcmaster.ca/ibiomed/), with a passion for merging diverse disciplines to solve real-world challenges. 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hydrowoxy&layout=compact&theme=radical)
 
