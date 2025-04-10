@@ -1,13 +1,13 @@
-## Hello, I'm [Salma](https://github.com/hydrowoxy)! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHY1ZGVuN2oydG14OXI3aGxnOGo5NXdxMnUwamliNjc5aW5tNno5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WHkBwWrgYmJwfMlyG3/giphy.gif" alt="Anime Waving" width="40" style="vertical-align: middle;" />
+## Hello, I'm [Salma](https://github.com/hydrowoxy)! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHY1ZGVuN2oydG14OXI3aGxnOGo5NXdxMnUwamliNjc5aW5tNno5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WHkBwWrgYmJwfMlyG3/giphy.gif" alt="Anime Waving" width="40" style="vertical-align: middle;" /> 
 
 **B. Eng. BME (Software & Biomedical Engineering)**  
-[LinkedIn](https://linkedin.com/in/salma-baig) | [Portfolio](https://salmabaig.com) | [Email](mailto:baigs19@mcmaster.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-baig)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://salmabaig.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baigs19@mcmaster.ca)
 
-I'm a student double-majoring in Software and Biomedical Engineering at [McMaster University](https://www.eng.mcmaster.ca/ibiomed/), with a passion for merging diverse disciplines to solve real-world challenges.
+I'm a student double-majoring in Software and Biomedical Engineering at [McMaster University](https://www.eng.mcmaster.ca/ibiomed/), with a passion for merging diverse disciplines to solve real-world challenges. Unabashedly in love with Java <3.
 
-
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hydrowoxy&layout=compact&theme=radical)
 
 ### About Me
 - 🏫 **Education**: Pursuing a B.Eng. BME in Software & Biomedical Engineering at McMaster University  
