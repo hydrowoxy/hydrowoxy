@@ -1,9 +1,11 @@
 ## Hello, I'm [Salma](https://github.com/hydrowoxy)! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHY1ZGVuN2oydG14OXI3aGxnOGo5NXdxMnUwamliNjc5aW5tNno5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WHkBwWrgYmJwfMlyG3/giphy.gif" alt="Anime Waving" width="40" style="vertical-align: middle;" />
 
+**B. Eng. BME (Software & Biomedical Engineering)**  
+[LinkedIn](https://linkedin.com/in/salma-baig) | [Portfolio](https://salmabaig.com) | [Email](mailto:baigs19@mcmaster.ca)
+
 I'm a student double-majoring in Software and Biomedical Engineering at McMaster University, with a passion for merging diverse disciplines to solve real-world challenges.
 
-**B. Eng. BME (Software & Biomedical Engineering)**  
-[LinkedIn](https://linkedin.com/in/salma-baig) | [Website](https://salmabaig.com) | [Email](mailto:baigs19@mcmaster.ca)
+
 
 ---
 
