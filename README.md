@@ -10,7 +10,7 @@ I'm a student double-majoring in Software and Biomedical Engineering at [McMaste
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hydrowoxy&layout=compact&theme=radical)
 
-### About Me
+## About Me
 - 🏫 **Education**: Pursuing a B.Eng. BME in Software & Biomedical Engineering at McMaster University  
 - 🔬 **Research**: Focused on MRI data analysis, machine learning for medical imaging, and gamified rehab technologies.  
 - 🌐 **Languages & Skills**: Java, Python, C, C#, JavaScript, TypeScript, MATLAB, Dart, Bash, Verilog HDL, React, Node.js, Unity, Quarkus...  
@@ -18,9 +18,9 @@ I'm a student double-majoring in Software and Biomedical Engineering at [McMaste
 
 ---
 
-### Tools and Technologies
+## Tools and Technologies
 
-#### Programming Languages
+### Programming Languages
 <p style="text-align: left;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="55" height="55" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55" title="Python" />
@@ -35,18 +35,18 @@ I'm a student double-majoring in Software and Biomedical Engineering at [McMaste
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="55" height="55" title="Bash" />
 </p>
 
-#### Libraries and Frameworks
+### Libraries and Frameworks
 <p style="text-align: left;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="55" height="55 title="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity (Doesn't really fit here, does it? More like a game engine...)" width="55" height="55" title="Unity" />
 </p>
 
-#### Databases
+### Databases
 <p style="text-align: left;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55" title="MongoDB" />
 </p>
 
-#### Other Tools
+### Other Tools
 <p style="text-align: left;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55" title="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="55" height="55" title="IntelliJ IDEA" />
