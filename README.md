@@ -9,6 +9,9 @@
 I'm a student double-majoring in Software and Biomedical Engineering at [McMaster University](https://www.eng.mcmaster.ca/ibiomed/), with a passion for merging diverse disciplines to solve real-world challenges. 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hydrowoxy&layout=compact&theme=radical)
+<a href="https://github.com/hydrowoxy">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hydrowoxy&theme=radical" />
+</a>
 
 ## About Me
 - 🏫 **Education**: Pursuing a B.Eng. BME in Software & Biomedical Engineering at McMaster University  
@@ -59,3 +62,9 @@ I'm a student double-majoring in Software and Biomedical Engineering at [McMaste
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="55" height="55" title="LaTeX" />
 </p>
 
+## Did You Know?
+- 🎮 I once made a Discord bot that reminds people to review PRs (and they actually listened to it).
+- 🎨 Outside of Engineering, I'm also a **digital artist** with over **25k followers on TikTok**. My PC has seen things.
+- 🎙️ I moonlight as a **voice actor** with **4k YouTube subscribers** — character voices, narrations, memes, you name it.
+- 🧠 I balance software, biomed, and anime debates with alarming efficiency.
+- 🌈 I love building things that are *functional, aesthetic*, and *just a bit cursed*.
