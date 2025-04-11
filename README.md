@@ -10,7 +10,7 @@ I'm a student double-majoring in Software and Biomedical Engineering at [McMaste
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hydrowoxy&layout=compact&theme=radical)
 <a href="https://github.com/hydrowoxy">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hydrowoxy&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hydrowoxy&theme=radical" />
 </a>
 
 ## About Me
