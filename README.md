@@ -62,10 +62,3 @@ I'm a student double-majoring in Software and Biomedical Engineering at [McMaste
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="55" height="55" title="LaTeX" />
 </p>
 
-## Did You Know?
-- 🎮 I once made a Discord bot that reminds people to review PRs (and they actually listened to it).
-- 🎨 Outside of Engineering, I'm also a **digital artist** with over **25k followers on TikTok**. My PC has seen things.
-- 📈 One of my **Physics tutorial videos** now has over **12k views** (granted, I chose this major to *escape Physics*).
-- 🎙️ I moonlight as a **voice actor** with **4k YouTube subscribers** — character voices, narrations, memes, you name it.
-- 🧠 I balance software, biomed, and anime debates with alarming efficiency.
-- 🌈 I love building things that are *functional, aesthetic*, and *just a bit cursed*.
