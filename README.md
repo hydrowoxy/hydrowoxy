@@ -17,7 +17,6 @@ I'm a student double-majoring in Software and Biomedical Engineering at [McMaste
 - 🏫 **Education**: Pursuing a B.Eng. BME in Software & Biomedical Engineering at McMaster University  
 - 🔬 **Research**: Focused on MRI data analysis, machine learning for medical imaging, and gamified rehab technologies.  
 - 🌐 **Languages & Skills**: Java, Python, C, C#, JavaScript, TypeScript, MATLAB, Dart, Bash, Verilog HDL, React, Node.js, Unity, Quarkus...  
-- 🌱 **Learning**: Currently learning about advanced AI, CI/CD best practices, and more.
 
 ---
 
