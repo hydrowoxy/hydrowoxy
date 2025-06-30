@@ -6,6 +6,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hydroxy_the_tutor)
 
 I'm a student double-majoring in Software and Biomedical Engineering at [McMaster University](https://www.eng.mcmaster.ca/ibiomed/), with a passion for combining diverse disciplines to address real-world challenges. 
+I'm also a co-founder of [![Stoat](https://www.stoated.dev)]!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hydrowoxy&layout=compact&theme=radical)
 
