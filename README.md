@@ -2,7 +2,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baigs19@mcmaster.ca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-baig)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://salmabaig.com](https://www.notion.so/Salma-Baig-Software-Engineer-Baja-Racing-SaaS-Innovator-26136f7654b780afa9b2e2028caf3de6))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.notion.so/Salma-Baig-Software-Engineer-Baja-Racing-26136f7654b780afa9b2e2028caf3de6?source=copy_link)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hydroxy_the_tutor)
 
 I'm a student majoring in Software Engineering at [McMaster University](https://www.eng.mcmaster.ca/), with a passion for combining diverse disciplines to address real-world challenges.
