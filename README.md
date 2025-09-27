@@ -7,8 +7,6 @@
 
 I'm a student majoring in Software Engineering at [McMaster University](https://www.eng.mcmaster.ca/), with a passion for combining diverse disciplines to address real-world challenges.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hydrowoxy&layout=compact&theme=radical)
-
 <a href="https://github.com/hydrowoxy">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hydrowoxy&theme=radical" />
 </a>
