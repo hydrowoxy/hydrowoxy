@@ -11,13 +11,6 @@ I'm a student majoring in Software Engineering at [McMaster University](https://
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hydrowoxy&theme=radical" />
 </a>
 
-## About Me
-- 🏫 **Education**: Pursuing a B.Eng. in Software Engineering at McMaster University  
-- 🔬 **Research**: Focused on MRI data analysis, machine learning for medical imaging, and gamified rehab technologies.  
-- 🌐 **Languages & Skills**: Java, Python, C, C#, JavaScript, TypeScript, MATLAB, Dart, Bash, Verilog HDL, React, Node.js, Unity, Quarkus...  
-
----
-
 ## Tools and Technologies
 
 ### Programming Languages
