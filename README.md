@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.notion.so/Salma-Baig-Software-Engineer-Baja-Racing-26136f7654b780afa9b2e2028caf3de6?source=copy_link)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hydroxy_the_tutor)
 
-I'm a student majoring in Software Engineering at [McMaster University](https://www.eng.mcmaster.ca/), with a passion for combining diverse disciplines to address real-world challenges.
+I'm a student double-majoring in Software and Biomedical Engineering at [McMaster University](https://www.eng.mcmaster.ca/), with a passion for combining diverse disciplines to address real-world challenges.
 
 <a href="https://github.com/hydrowoxy">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hydrowoxy&theme=radical" />
